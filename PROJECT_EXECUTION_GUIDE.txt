@@ -1,0 +1,9 @@
+
+1. Download IBM HR dataset from Kaggle.
+2. Place CSV inside data folder.
+3. Open project in VS Code.
+4. Run:
+   pip install -r requirements.txt
+5. Run:
+   python main.py
+6. Output graphs will appear in output folder.

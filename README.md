@@ -44,15 +44,7 @@ This project helps answer questions such as:
 
 ---
 
-## Dataset
 
-IBM HR Analytics Employee Attrition Dataset
-
-Dataset Source:
-
-https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-
----
 
 ## Visual Outputs
 
